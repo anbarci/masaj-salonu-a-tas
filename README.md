@@ -4,7 +4,7 @@ Fotoğraf öncelikli tasarım: sıcak taş fotoğrafı üzerinde başlık, foto�
 
 Demo: https://anbarci.github.io/masaj-salonu-a-tas/
 
-Üç yönün karşılaştırması: https://anbarci.github.io/masaj-salonu-demolar/
+Bütün yönlerin karşılaştırması: https://anbarci.github.io/masaj-salonu-demolar/
 
 Tek sayfa, statik HTML. İşlevler:
 
